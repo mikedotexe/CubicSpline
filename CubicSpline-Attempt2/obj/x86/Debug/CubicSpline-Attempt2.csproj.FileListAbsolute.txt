@@ -1,0 +1,5 @@
+c:\users\mike\documents\visual studio 2010\Projects\CubicSpline-Attempt2\CubicSpline-Attempt2\bin\Debug\CubicSpline-Attempt2.exe
+c:\users\mike\documents\visual studio 2010\Projects\CubicSpline-Attempt2\CubicSpline-Attempt2\bin\Debug\CubicSpline-Attempt2.pdb
+c:\users\mike\documents\visual studio 2010\Projects\CubicSpline-Attempt2\CubicSpline-Attempt2\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\mike\documents\visual studio 2010\Projects\CubicSpline-Attempt2\CubicSpline-Attempt2\obj\x86\Debug\CubicSpline-Attempt2.exe
+c:\users\mike\documents\visual studio 2010\Projects\CubicSpline-Attempt2\CubicSpline-Attempt2\obj\x86\Debug\CubicSpline-Attempt2.pdb
